@@ -1,4 +1,4 @@
-package com.itheima.doudizhu;
+package com.itpractice.doudizhu;
 
 import java.util.ArrayList;
 import java.util.Collection;
